@@ -8,4 +8,6 @@ Dunk Four is a 2 player game where the objective is to connect four of the same 
 
 Compile with GameMaker Studio 2
 
+Play online [here](https://ed-jones.itch.io/dunk-four)
+
 ![Game Animation](http://i.imgur.com/8lj5DJj.gif)
